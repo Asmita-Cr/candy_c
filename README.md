@@ -1,3 +1,2 @@
 # candy_c 
-a  
-a
+fcfs.c->FCFS program in C 
